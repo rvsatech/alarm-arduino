@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+bip.wav
+alertas.csv
+alertas.log
